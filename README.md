@@ -28,5 +28,5 @@ Project ini digunakan untuk mengontrol lampu dari jarak jauh menggunakan NodeMCU
 ## Hasil
 Lampu dapat dikontrol melalui HP dari jarak jauh.
 <p align="center">
-  <img src="lampu2.jpg" width="400" />
+  <img src="lampu2.jpeg" width="400" />
 </p>
