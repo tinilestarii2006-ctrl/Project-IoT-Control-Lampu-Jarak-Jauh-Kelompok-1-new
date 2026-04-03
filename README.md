@@ -1,4 +1,4 @@
-# PROJECT IoT: Kontrol Lampu Jarak Jauh
+# Project IoT Control Lampu Jarak Jauh
 
 ## Deskripsi
 Project ini digunakan untuk mengontrol lampu dari jarak jauh menggunakan NodeMCU dan WiFi.
